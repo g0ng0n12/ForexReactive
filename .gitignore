@@ -5,6 +5,7 @@
 .idea/
 .DS_Store
 *.iml
+target/
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
